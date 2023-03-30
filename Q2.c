@@ -1,4 +1,4 @@
-/* Q3.Devlope a program that reads a string and 
+/* Q2.Devlope a program that reads a string and 
 prints the reverse of the string*/
 
 
